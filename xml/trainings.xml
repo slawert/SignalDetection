@@ -1,0 +1,14 @@
+<trainings>
+	<training>
+		<name>Señales triangulares</name>
+		<filename>data.xml</filename>
+		<notice>Peligro Atencion</notice>
+		<state>true</state>
+	</training>
+	<training>
+		<name>Cuerpo entero</name>
+		<filename>haarcascade_fullbody.xml</filename>
+		<notice>Persona encontrado</notice>
+		<state>true</state>
+	</training>
+</trainings>

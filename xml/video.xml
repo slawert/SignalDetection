@@ -1,0 +1,6 @@
+<video>
+	<threshold>80</threshold>
+	<brightness>0</brightness>
+	<blur>true</blur>
+	<convertGray>true</convertGray>
+</video>
