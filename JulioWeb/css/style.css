@@ -1,0 +1,112 @@
+*{
+	padding: 0px;
+	margin : 0px;
+	color: #666666;
+	font-family: 'Roboto', sans-serif;
+}
+
+body{
+	margin-top:20px;
+	width: 655px;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+h1{
+	margin-bottom:3%;
+}
+#menu{
+	margin-top:3%;
+}
+
+#menu li, #footer li{
+	display: inline-block;
+	margin-right: 1.7em;
+}
+
+#menu li:hover, #footer li:hover{
+	cursor: pointer;
+}
+
+
+#menu ul, #footer ul{
+	list-style-type: none;
+}
+
+#header p{
+	font-style: italic;
+}
+
+.experience{
+	color:#007A9B;
+}
+.academic{
+	color:#FF8F0C;
+}
+.technical{
+	color:#6B006B;
+}
+.skills{
+	color:#B82500;
+}
+.contact{
+	color:#189337;
+}
+
+#footer{
+	color: #888888;
+  	right:1%;
+  	top:1%;
+  	float:right;
+	position: fixed;
+}
+
+#content{
+	height:40%;
+	overflow:hidden;
+}
+
+#experience{
+	opacity:0.1;
+	z-index: 1;
+	position: fixed;
+	width: 635px;
+	font-weight: bolder;
+	font-size:3em;
+}
+#academic{
+	opacity:0.1;
+	z-index: 2;
+	position: fixed;
+	width: 655px;
+	font-weight: bolder;
+	font-size:3em;
+}
+#technical{
+	opacity:0.1;
+	z-index: 3;
+	position: fixed;
+	width: 655px;
+	font-weight: bolder;
+	font-size:3em;
+}
+#skills{
+	opacity:0.1;
+	z-index: 4;
+	position: fixed;
+	width: 655px;
+	font-weight: bolder;
+	font-size:3em;
+}
+
+#contact{
+	opacity:0.1;
+	z-index: 5;
+	position: fixed;
+	width: 655px;
+	font-weight: bolder;
+	font-size:3em;
+}
+
